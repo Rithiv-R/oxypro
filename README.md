@@ -2,5 +2,5 @@
         This project is based on DIJANGO Framework for building API of oxygen SUPPLIERS
         
  # hosted link
-      https://meet.google.com/cif-qygs-xkk
+      https://oxypro.herokuapp.com/oxyfind/
  
